@@ -1,6 +1,8 @@
 Name: Shristi Gupta
 
-Sec: A batch A2
+Sec: A 
+
+Batch: A2
 
 Roll: 23
 
